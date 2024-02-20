@@ -7,6 +7,16 @@
 
 
 
+Skills
+
+Backend
+Java, Kotlin,Spring Boot, Spring Data JPA, QueryDSL, Junit5, Mockito, Thymeleaf, Gradle, Spring Cloud, Spring Batch, ElasticSearch, Mysql, Redis, RabbitMq
+Devops
+AWS EC2, AWS S3, AWS Route53, AWS RDS, AWS Beanstalk, Github Actions, Docker, Docker-Compose, ELK Stack, Prometheus, Grafana
+Frontend
+HTML5, CSS3, JS, React.js, Next.js, React-Query, Recoil
+Collaboration
+Git, GitHub, Jira, Notion
 
 
 
