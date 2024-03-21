@@ -3,7 +3,7 @@
 
 ### **Backend**
 
-- Java, Kotlin,Spring Boot, Spring Data JPA, QueryDSL, Junit5, Mockito, Thymeleaf, Gradle, Spring Cloud, Spring Batch, ElasticSearch, Mysql, Redis, RabbitMq
+- Java,,Spring Boot, Spring Data JPA, QueryDSL, Junit5, Mockito, Thymeleaf, Gradle, Mysql, Redis, RabbitMq
 
 ### **Devops**
 
