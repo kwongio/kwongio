@@ -3,7 +3,7 @@
 | **프로젝트명**             | **조직**                    | **역할**                 | **기간**              | **링크**                                                    |
 |----------------------------|-----------------------------|--------------------------|---------------------------|-------------------------------------------------------------|
 | 선착순 쿠폰 시스템         | 개인 프로젝트               | 백엔드 개발 & 인프라     | 2024.12.09 ~ 2024.12.20     | [https://github.com/kwongio/CouponSystem](https://github.com/kwongio/CouponSystem) |
-| FED                        | [파수](https://www.fasoo.com/about-us) | 백엔드 개발            | 2024.04 ~ 2024.06     | [https://www.fasoo.com/products/fasoo-enterprise-drm](https://www.fasoo.com/products/fasoo-enterprise-drm) |
+| FED                        | [파수](https://www.fasoo.com/about-us) | 백엔드 개발            | 2024.04 ~ 2024.06     | |
 | 펫밀리                     | [소프트웨어 마에스트로 14기](https://www.swmaestro.org/sw/main/main.do) | 백엔드 개발 & 인프라 | 2023.05 ~ 2023.11     | [https://github.com/SWM-Petmily/SWM-SPRING](https://github.com/SWM-Petmily/SWM-SPRING?tab=readme-ov-file) |
 | 투게더                     | 광운대학교                 | 백엔드 개발 & 인프라     | 2023.09 ~ 2023.11     | [https://github.com/Kwangwoon-OSS](https://github.com/Kwangwoon-OSS) |
 | 공구일정                   | 없음                       | 백엔드 개발 & 인프라     | 2023.05 ~ 2023.06     | [https://github.com/Gongguiljeong/backend](https://github.com/Gongguiljeong/backend) |
