@@ -1,12 +1,14 @@
-## 📋 Projects & Careers
+## 📋 Projects & Careers  
 
-| 프로젝트명     | 조직                    | 역할                   | 기간                |
-|----------------|-------------------------|------------------------|---------------------|
-| [**FED**](https://www.fasoo.com/products/fasoo-enterprise-drm)| [파수](https://www.fasoo.com/about-us) | 백엔드 개발| 2024.04 ~ 2024.06 |
-| [**펫밀리**](https://github.com/SWM-Petmily/SWM-SPRING?tab=readme-ov-file)| [소프트웨어 마에스트로 14기](https://www.swmaestro.org/sw/main/main.do) | 백엔드 개발 & 인프라| 2023.05 ~ 2023.11 |
-| [**투게더**](https://github.com/Kwangwoon-OSS)|광운대학교| 백엔드 개발 & 인프라| 2023.09 ~ 2023.11|
-| [**공구일정**](https://github.com/Gongguiljeong/backend)|없음| 백엔드 개발 & 인프라| 2023.05 ~ 2023.6|
-| [**당근에디터**](https://github.com/devRABBIT-KWU)| 모바일앱개발협동조합 | 백엔드 개발| 2022.07 ~ 2023.02|
+| **프로젝트명**             | **조직**                    | **역할**                 | **기간**              | **링크**                                                    |
+|----------------------------|-----------------------------|--------------------------|---------------------------|-------------------------------------------------------------|
+| 선착순 쿠폰 시스템         | 개인 프로젝트               | 백엔드 개발 & 인프라     | 2024.12.09 ~ 2024.12.20     | [https://github.com/kwongio/CouponSystem](https://github.com/kwongio/CouponSystem) |
+| FED                        | [파수](https://www.fasoo.com/about-us) | 백엔드 개발            | 2024.04 ~ 2024.06     | [https://www.fasoo.com/products/fasoo-enterprise-drm](https://www.fasoo.com/products/fasoo-enterprise-drm) |
+| 펫밀리                     | [소프트웨어 마에스트로 14기](https://www.swmaestro.org/sw/main/main.do) | 백엔드 개발 & 인프라 | 2023.05 ~ 2023.11     | [https://github.com/SWM-Petmily/SWM-SPRING](https://github.com/SWM-Petmily/SWM-SPRING?tab=readme-ov-file) |
+| 투게더                     | 광운대학교                 | 백엔드 개발 & 인프라     | 2023.09 ~ 2023.11     | [https://github.com/Kwangwoon-OSS](https://github.com/Kwangwoon-OSS) |
+| 공구일정                   | 없음                       | 백엔드 개발 & 인프라     | 2023.05 ~ 2023.06     | [https://github.com/Gongguiljeong/backend](https://github.com/Gongguiljeong/backend) |
+| 당근에디터                 | 모바일앱개발협동조합       | 백엔드 개발             | 2022.07 ~ 2023.02     | [https://github.com/devRABBIT-KWU](https://github.com/devRABBIT-KWU) |
+
 
 
 ## 🏅 Certificates  
@@ -21,22 +23,6 @@
 | **정보처리기능사**           | 2017-08-16   | 한국산업인력공단          |
 
 
-## 🧸 Toy Projects  
-
-| 프로젝트명                    | 링크                                 | 비고                                |
-|-------------------------------|--------------------------------------|-------------------------------------|
-| **MongoDB 학습**               | https://github.com/kwongio/mongodb   | MongoDB 설치 및 기초 학습           |
-| **자바 동시성 제어 학습**       | https://github.com/kwongio/Financial | 자바 ReentrantLock, ConcurrentHashMap, ExecutorService, CompletableFuture 학습 |
-| **선착순 쿠폰 시스템 학습**     | https://github.com/kwongio/coupon_race_condition | 자바, DB, Redis 동시성 해결방법 학습 및 Kafka 비동기 처리 학습 |
-| **재고 시스템 학습**           | https://github.com/kwongio/race-condition | 자바, DB, Redis 동시성 해결방법 학습  |
-| **Spring WebFlux 학습**        | https://github.com/kwongio/coupon_race_condition | WebFlux와 R2DBC 기초 학습           |
-| **Spring Batch 학습**          | https://github.com/kwongio/spring-batch-jpa | Spring Batch 기초 학습             |
-| **CI/CD 학습**                 | https://github.com/kwongio/aws-v5    | AWS Elastic Beanstalk와 GitHub Actions CI/CD 연동 |
-| **Next.js 학습**               | https://github.com/kwongio/next.js   | Next.js 학습                        |
-
-
-
-
 
 ## 🎓 Education  
 
@@ -49,38 +35,25 @@
 
 ## 🛠 Development Stack  
 
-### Backend 🌟  
-- **Languages & Frameworks**: Java, JUnit, Spring Boot, Spring Security  
-- **ORM & Query**: JPA, QueryDSL, MyBatis  
-- **Databases**: MySQL 
+| **구분**                | **기술 및 도구**                                                                   |
+|-------------------------|-----------------------------------------------------------------------------------|
+| **백엔드** 🌟          | Java, JUnit, Spring Boot, Spring Security                                         |
+| **ORM 및 쿼리**         | JPA, QueryDSL, MyBatis                                                           |
+| **데이터베이스**         | MySQL, Redis                                                                     |
+| **메시징**              | Kafka                                                                            |
+| **모니터링 및 관측**     | Prometheus, Grafana, Pinpoint                                                    |
+| **테스트**              | JMeter                                                                           |
+| **DevOps** 🌟          | AWS Elastic Beanstalk, GitHub Actions (CI/CD), Docker                            |
+| **프론트엔드**          | HTML, CSS, JavaScript, React.js, Next.js, Axios, React-Query, Recoil             |
+| **기타**                | VisualVM, Sentry, SonarQube                                                      |
 
-### DevOps  
-- AWS Elastic Beanstalk, GitHub Actions (CI/CD), Docker  
-
-### Frontend  
-- HTML, CSS, JavaScript  
-- React.js, Next.js, Axios, React-Query, Recoil  
-
-### ETC  
-- JMeter, VisualVM, Sentry, SonarQube  
 
 
 ## 🌱 Interested in Learning  
 
-### Backend 🌟  
-- Kotlin, Redis, Kafka, MongoDB  
-- Replication, Sharding  
+| **구분**           | **기술 및 도구**                                                   |
+|--------------------|----------------------------------------------------------------|
+| **백엔드** 🌟      | Kotlin, MongoDB, Replication, Sharding                        |
+| **DevOps**         | Kubernetes                                                   |
 
-### DevOps  
-- Kubernetes  
-
-### ETC 🌟
-- PinPoint, nGrinder  
-
-### Design 🌟
-- Domain Storytelling  
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldh1111)](https://solved.ac/rldh1111/)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwongio&layout=compact)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwongio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldh1111)](https://solved.ac/rldh1111/)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwongio&layout=compact)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwongio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
