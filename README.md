@@ -41,7 +41,7 @@
 | **ORM 및 쿼리**         | JPA, QueryDSL, MyBatis                                                           |
 | **데이터베이스**         | MySQL, Redis                                                                     |
 | **메시징**              | Kafka                                                                            |
-| **모니터링 및 관측**     | Prometheus, Grafana, Pinpoint                                                    |
+| **모니터링 및 APM**     | Prometheus, Grafana, Pinpoint                                                    |
 | **테스트**              | JMeter                                                                           |
 | **DevOps** 🌟          | AWS Elastic Beanstalk, GitHub Actions (CI/CD), Docker                            |
 | **프론트엔드**          | HTML, CSS, JavaScript, React.js, Next.js, Axios, React-Query, Recoil             |
@@ -53,7 +53,7 @@
 
 | **구분**           | **기술 및 도구**                                                   |
 |--------------------|----------------------------------------------------------------|
-| **백엔드** 🌟      | Kotlin, MongoDB, Replication, Sharding                        |
+| **백엔드** 🌟      | Kotlin, MongoDB, Replication, Sharding, MSA, Hexagonal      |
 | **DevOps**         | Kubernetes                                                   |
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldh1111)](https://solved.ac/rldh1111/)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwongio&layout=compact)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwongio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
