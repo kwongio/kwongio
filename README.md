@@ -5,9 +5,6 @@
 | 선착순 쿠폰 시스템         | 개인 프로젝트               | 백엔드 개발 & 인프라     | 2024.12.09 ~ 2024.12.20     | [https://github.com/kwongio/CouponSystem](https://github.com/kwongio/CouponSystem) |
 | FED                        | [파수](https://www.fasoo.com/about-us) | 백엔드 개발            | 2024.04 ~ 2024.06     | |
 | 펫밀리                     | [소프트웨어 마에스트로 14기](https://www.swmaestro.org/sw/main/main.do) | 백엔드 개발 & 인프라 | 2023.05 ~ 2023.11     | [https://github.com/SWM-Petmily/SWM-SPRING](https://github.com/SWM-Petmily/SWM-SPRING?tab=readme-ov-file) |
-| 투게더                     | 광운대학교                 | 백엔드 개발 & 인프라     | 2023.09 ~ 2023.11     | [https://github.com/Kwangwoon-OSS](https://github.com/Kwangwoon-OSS) |
-| 공구일정                   | 없음                       | 백엔드 개발 & 인프라     | 2023.05 ~ 2023.06     | [https://github.com/Gongguiljeong/backend](https://github.com/Gongguiljeong/backend) |
-| 당근에디터                 | 모바일앱개발협동조합       | 백엔드 개발             | 2022.07 ~ 2023.02     | [https://github.com/devRABBIT-KWU](https://github.com/devRABBIT-KWU) |
 
 
 
@@ -43,17 +40,11 @@
 | **메시징**              | Kafka                                                                            |
 | **모니터링 및 APM**     | Prometheus, Grafana, Pinpoint                                                    |
 | **테스트**              | JMeter                                                                           |
-| **DevOps** 🌟          | AWS Elastic Beanstalk, GitHub Actions (CI/CD), Docker                            |
-| **프론트엔드**          | HTML, CSS, JavaScript, React.js, Next.js, Axios, React-Query, Recoil             |
+| **DevOps** 🌟          | AWS, GitHub Actions (CI/CD), Docker                            |
+| **프론트엔드**          | Next.js                 |
 | **기타**                | VisualVM, Sentry, SonarQube                                                      |
 
 
 
-## 🌱 Interested in Learning  
-
-| **구분**           | **기술 및 도구**                                                   |
-|--------------------|----------------------------------------------------------------|
-| **백엔드** 🌟      | Kotlin, MongoDB, Replication, Sharding, MSA, Hexagonal      |
-| **DevOps**         | Kubernetes                                                   |
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldh1111)](https://solved.ac/rldh1111/)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwongio&layout=compact)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwongio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
